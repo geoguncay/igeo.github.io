@@ -1,7 +1,7 @@
-# Hi there, I'm Geovanny Guncay! 
+# Hi there, I'm Geo! 
 
 
-Open 👉 [Geo Guncay](https://geoguncay.github.io/geoguncay/) to view my portfolio. 🧑‍💻
+Open 👉 [Geo](https://geoguncay.github.io/geoguncay/) to view my portfolio. 🧑‍💻
 
 <p align="left">
   <img
@@ -39,79 +39,6 @@ Open 👉 [Geo Guncay](https://geoguncay.github.io/geoguncay/) to view my portfo
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/html.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/css.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/javascript.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/python.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/react.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/django.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/mysql.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/postgresql.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/java.svg"
-  />
-  &nbsp;
-  <img
-    width="70px"
-    height="70px"
-    style="margin: 10px"
-    src="./src/assets/tailwindcss.svg"
-  />
-  &nbsp;
-</p>
 <h3 align="left" >Stats:</h3>
 
 <div>
