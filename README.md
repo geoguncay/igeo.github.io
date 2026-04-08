@@ -1,7 +1,8 @@
 # Hi there, I'm Geo! 
+## About me
 
 
-Open 👉 [Geo](https://geoguncay.github.io/geoguncay/) to view my portfolio. 🧑‍💻
+My name is Geovanny, I am currently expanding my professional horizons, I seek to improve and test my skills and knowledge. I enjoy situations where I have to test myself and learn new things, I consider that the ability to overcome is one of the very important qualities for a candidate, that is why i prepare me a every day to learn and improve my skills..
 
 <p align="left">
   <img
